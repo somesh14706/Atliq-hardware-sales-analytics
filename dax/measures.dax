@@ -1,0 +1,208 @@
+// ==============================================================================
+// measures.dax
+// Project: AtliQ Hardware Sales & Profitability Analytics Suite
+// Description: Comprehensive enterprise DAX measure library organized by folder.
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// TABLE: _Measures
+// ------------------------------------------------------------------------------
+
+/* ==============================================================================
+   1. CORE SALES & VOLUME METRICS
+   ============================================================================== */
+
+[Total Revenue] = 
+SUM(fact_sales[sales_amount_inr])
+// Format: ₹#,##0; (₹#,##0); "-"
+
+[Total Units Sold] = 
+SUM(fact_sales[sales_qty])
+// Format: #,##0
+
+[Total Orders] = 
+DISTINCTCOUNT(fact_sales[transaction_id])
+// Format: #,##0
+
+[Active Customers] = 
+DISTINCTCOUNT(fact_sales[customer_code])
+// Format: #,##0
+
+[Active Products Sold] = 
+DISTINCTCOUNT(fact_sales[product_code])
+// Format: #,##0
+
+
+/* ==============================================================================
+   2. PROFITABILITY & MARGIN METRICS
+   ============================================================================== */
+
+[Total Cost (COGS)] = 
+SUM(fact_sales[cost_amount_inr])
+// Format: ₹#,##0; (₹#,##0); "-"
+
+[Gross Profit] = 
+[Total Revenue] - [Total Cost (COGS)]
+// Format: ₹#,##0; (₹#,##0); "-"
+
+[Gross Margin %] = 
+DIVIDE(
+    [Gross Profit], 
+    [Total Revenue], 
+    0
+)
+// Format: 0.0%
+
+[Margin Status KPI Color] = 
+SWITCH(
+    TRUE(),
+    ISBLANK([Gross Margin %]), "#BDC3C7",
+    [Gross Margin %] >= 0.14, "#27AE60",   -- High profitability (Green)
+    [Gross Margin %] >= 0.10, "#F39C12",   -- Acceptable profitability (Amber)
+    "#E74C3C"                              -- Low / compressed margin (Red)
+)
+
+
+/* ==============================================================================
+   3. BUSINESS UNIT ECONOMICS & EFFICIENCY
+   ============================================================================== */
+
+[Average Order Value (AOV)] = 
+DIVIDE(
+    [Total Revenue], 
+    [Total Orders], 
+    0
+)
+// Format: ₹#,##0
+
+[Average Selling Price (ASP)] = 
+DIVIDE(
+    [Total Revenue], 
+    [Total Units Sold], 
+    0
+)
+// Format: ₹#,##0.00
+
+[Revenue per Active Customer] = 
+DIVIDE(
+    [Total Revenue], 
+    [Active Customers], 
+    0
+)
+// Format: ₹#,##0
+
+
+/* ==============================================================================
+   4. TIME INTELLIGENCE (YoY, MoM, YTD)
+   ============================================================================== */
+
+[Revenue LY] = 
+CALCULATE(
+    [Total Revenue],
+    SAMEPERIODLASTYEAR(dim_date[order_date])
+)
+// Format: ₹#,##0
+
+[YoY Revenue Growth] = 
+IF(
+    NOT ISBLANK([Revenue LY]),
+    [Total Revenue] - [Revenue LY],
+    BLANK()
+)
+// Format: +₹#,##0;-₹#,##0;0
+
+[YoY Revenue Growth %] = 
+DIVIDE(
+    [YoY Revenue Growth],
+    [Revenue LY],
+    0
+)
+// Format: +0.0%;-0.0%;0.0%
+
+[Revenue YTD] = 
+TOTALYTD(
+    [Total Revenue],
+    dim_date[order_date]
+)
+// Format: ₹#,##0
+
+[Gross Profit LY] = 
+CALCULATE(
+    [Gross Profit],
+    SAMEPERIODLASTYEAR(dim_date[order_date])
+)
+// Format: ₹#,##0
+
+[YoY Profit Growth %] = 
+DIVIDE(
+    [Gross Profit] - [Gross Profit LY],
+    [Gross Profit LY],
+    0
+)
+// Format: +0.0%;-0.0%;0.0%
+
+
+/* ==============================================================================
+   5. CHANNEL & CONTRIBUTION ANALYSIS
+   ============================================================================== */
+
+[Brick & Mortar Revenue] = 
+CALCULATE(
+    [Total Revenue],
+    dim_customers[customer_channel] = "Brick & Mortar"
+)
+
+[E-Commerce Revenue] = 
+CALCULATE(
+    [Total Revenue],
+    dim_customers[customer_channel] = "E-Commerce"
+)
+
+[E-Commerce Share %] = 
+DIVIDE(
+    [E-Commerce Revenue],
+    [Total Revenue],
+    0
+)
+// Format: 0.0%
+
+[% of Total Company Revenue] = 
+DIVIDE(
+    [Total Revenue],
+    CALCULATE([Total Revenue], ALL(fact_sales)),
+    0
+)
+// Format: 0.0%
+
+
+/* ==============================================================================
+   6. PARETO 80/20 CUMULATIVE CUSTOMER REVENUE
+   ============================================================================== */
+
+[Cumulative Customer Revenue] = 
+VAR CurrentCustomerRev = [Total Revenue]
+RETURN
+IF(
+    NOT ISBLANK(CurrentCustomerRev),
+    VAR AllCustRevTable = 
+        ADDCOLUMNS(
+            ALLSELECTED(dim_customers[customer_name]),
+            "@Revenue", [Total Revenue]
+        )
+    VAR GreaterRevTable = 
+        FILTER(
+            AllCustRevTable,
+            [@Revenue] >= CurrentCustomerRev
+        )
+    RETURN
+        SUMX(GreaterRevTable, [@Revenue]),
+    BLANK()
+)
+
+[Pareto Cumulative %] = 
+DIVIDE(
+    [Cumulative Customer Revenue],
+    CALCULATE([Total Revenue], ALLSELECTED(dim_customers)),
+    0
+)
+// Format: 0.0%

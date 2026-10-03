@@ -1,0 +1,20 @@
+# Power BI temporary files
+*.tmp
+~$*
+*.pbix.swap
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Python / Scratch cache
+__pycache__/
+*.pyc
+scratch/

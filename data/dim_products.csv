@@ -1,0 +1,340 @@
+﻿product_code,product_name,category,product_type,margin_rate
+"Prod001","AtliQ ErgoMech RGB Keyboard [Prod001]","Keyboards & Mice","Own Brand\r",0.09
+"Prod002","AtliQ FastTrack NVMe SSD 1TB [Prod002]","Storage & Memory","Own Brand\r",0.1
+"Prod003","AtliQ SoundPulse 7.1 Gaming Headset [Prod003]","Audio & Webcams","Own Brand\r",0.11
+"Prod004","AtliQ PowerForge 650W Bronze PSU [Prod004]","Power & Cables","Own Brand\r",0.12
+"Prod005","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod005]","Networking & Hubs","Own Brand\r",0.13
+"Prod006","AtliQ WorkStation Slim i5 [Prod006]","Desktops & Laptops","Own Brand\r",0.14
+"Prod007","AtliQ FlowAir 120mm RGB Case Fan [Prod007]","Components & Cooling","Own Brand\r",0.08
+"Prod008","AtliQ Horizon 27" QHD Gaming [Prod008]","Displays & Monitors","Own Brand\r",0.09
+"Prod009","AtliQ Stealth Wireless Keyboard [Prod009]","Keyboards & Mice","Own Brand\r",0.1
+"Prod010","AtliQ FastTrack NVMe SSD 2TB [Prod010]","Storage & Memory","Own Brand\r",0.11
+"Prod011","AtliQ ClearVoice Studio Mic [Prod011]","Audio & Webcams","Own Brand\r",0.12
+"Prod012","AtliQ SurgeGuard 8-Way Extension [Prod012]","Power & Cables","Own Brand\r",0.13
+"Prod013","AtliQ 8-Port Gigabit Switch [Prod013]","Networking & Hubs","Own Brand\r",0.14
+"Prod014","AtliQ BeastMaster Gaming Rig i7 [Prod014]","Desktops & Laptops","Own Brand\r",0.08
+"Prod015","AtliQ LiquidCool 240mm AIO Cooler [Prod015]","Components & Cooling","Own Brand\r",0.09
+"Prod016","AtliQ Horizon 32" 4K Curved [Prod016]","Displays & Monitors","Own Brand\r",0.1
+"Prod017","AtliQ HyperTrack Precision Mouse [Prod017]","Keyboards & Mice","Own Brand\r",0.11
+"Prod018","AtliQ TurboDrive External SSD 500GB [Prod018]","Storage & Memory","Own Brand\r",0.12
+"Prod019","AtliQ StreamHD 1080p Webcam [Prod019]","Audio & Webcams","Own Brand\r",0.13
+"Prod020","AtliQ Braided HDMI 2.1 4K Cable [Prod020]","Power & Cables","Own Brand\r",0.14
+"Prod021","AtliQ 10-in-1 USB-C Docking Station [Prod021]","Networking & Hubs","Own Brand\r",0.08
+"Prod022","AtliQ EcoLite Business Notebook 14" [Prod022]","Desktops & Laptops","Distribution\r",0.09
+"Prod023","AtliQ ThermalMaster Heatsink [Prod023]","Components & Cooling","Distribution\r",0.1
+"Prod024","AtliQ VisionPro 1080p UltraSlim [Prod024]","Displays & Monitors","Distribution\r",0.11
+"Prod025","AtliQ AeroGlide Gaming Mouse [Prod025]","Keyboards & Mice","Distribution\r",0.12
+"Prod026","AtliQ HighCap SATA SSD 480GB [Prod026]","Storage & Memory","Distribution\r",0.13
+"Prod027","AtliQ Conference 360 Mic/Speaker [Prod027]","Audio & Webcams","Distribution\r",0.14
+"Prod028","AtliQ USB-C 100W Fast Charging Cord [Prod028]","Power & Cables","Distribution\r",0.08
+"Prod029","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod029]","Networking & Hubs","Distribution\r",0.09
+"Prod030","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod030]","Desktops & Laptops","Distribution\r",0.1
+"Prod031","AtliQ MetalChassis Mid-Tower Case [Prod031]","Components & Cooling","Distribution\r",0.11
+"Prod032","AtliQ TouchPanel 15.6" Portable [Prod032]","Displays & Monitors","Distribution\r",0.12
+"Prod033","AtliQ OfficeCombo Wireless Pack [Prod033]","Keyboards & Mice","Distribution\r",0.13
+"Prod034","AtliQ DDR4 16GB 3200MHz RAM [Prod034]","Storage & Memory","Own Brand\r",0.14
+"Prod035","AtliQ BassPro Wireless Earbuds [Prod035]","Audio & Webcams","Own Brand\r",0.08
+"Prod036","AtliQ UltraFlex DisplayPort 1.4 [Prod036]","Power & Cables","Own Brand\r",0.09
+"Prod037","AtliQ Cat7 Shielded Ethernet 10m [Prod037]","Networking & Hubs","Own Brand\r",0.1
+"Prod038","AtliQ MiniPC Office Cube [Prod038]","Desktops & Laptops","Own Brand\r",0.11
+"Prod039","AtliQ SoundProof Anti-Vibration Pads [Prod039]","Components & Cooling","Own Brand\r",0.12
+"Prod040","AtliQ Horizon 24" FHD IPS [Prod040]","Displays & Monitors","Own Brand\r",0.13
+"Prod041","AtliQ ErgoMech RGB Keyboard [Prod041]","Keyboards & Mice","Own Brand\r",0.14
+"Prod042","AtliQ FastTrack NVMe SSD 1TB [Prod042]","Storage & Memory","Own Brand\r",0.08
+"Prod043","AtliQ SoundPulse 7.1 Gaming Headset [Prod043]","Audio & Webcams","Own Brand\r",0.09
+"Prod044","AtliQ PowerForge 650W Bronze PSU [Prod044]","Power & Cables","Own Brand\r",0.1
+"Prod045","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod045]","Networking & Hubs","Own Brand\r",0.11
+"Prod046","AtliQ WorkStation Slim i5 [Prod046]","Desktops & Laptops","Own Brand\r",0.12
+"Prod047","AtliQ FlowAir 120mm RGB Case Fan [Prod047]","Components & Cooling","Own Brand\r",0.13
+"Prod048","AtliQ Horizon 27" QHD Gaming [Prod048]","Displays & Monitors","Own Brand\r",0.14
+"Prod049","AtliQ Stealth Wireless Keyboard [Prod049]","Keyboards & Mice","Own Brand\r",0.08
+"Prod050","AtliQ FastTrack NVMe SSD 2TB [Prod050]","Storage & Memory","Own Brand\r",0.09
+"Prod051","AtliQ ClearVoice Studio Mic [Prod051]","Audio & Webcams","Own Brand\r",0.1
+"Prod052","AtliQ SurgeGuard 8-Way Extension [Prod052]","Power & Cables","Own Brand\r",0.11
+"Prod053","AtliQ 8-Port Gigabit Switch [Prod053]","Networking & Hubs","Own Brand\r",0.12
+"Prod054","AtliQ BeastMaster Gaming Rig i7 [Prod054]","Desktops & Laptops","Own Brand\r",0.13
+"Prod055","AtliQ LiquidCool 240mm AIO Cooler [Prod055]","Components & Cooling","Own Brand\r",0.14
+"Prod056","AtliQ Horizon 32" 4K Curved [Prod056]","Displays & Monitors","Own Brand\r",0.08
+"Prod057","AtliQ HyperTrack Precision Mouse [Prod057]","Keyboards & Mice","Own Brand\r",0.09
+"Prod058","AtliQ TurboDrive External SSD 500GB [Prod058]","Storage & Memory","Own Brand\r",0.1
+"Prod059","AtliQ StreamHD 1080p Webcam [Prod059]","Audio & Webcams","Own Brand\r",0.11
+"Prod060","AtliQ Braided HDMI 2.1 4K Cable [Prod060]","Power & Cables","Own Brand\r",0.12
+"Prod061","AtliQ 10-in-1 USB-C Docking Station [Prod061]","Networking & Hubs","Own Brand\r",0.13
+"Prod062","AtliQ EcoLite Business Notebook 14" [Prod062]","Desktops & Laptops","Own Brand\r",0.14
+"Prod063","AtliQ ThermalMaster Heatsink [Prod063]","Components & Cooling","Own Brand\r",0.08
+"Prod064","AtliQ VisionPro 1080p UltraSlim [Prod064]","Displays & Monitors","Own Brand\r",0.09
+"Prod065","AtliQ AeroGlide Gaming Mouse [Prod065]","Keyboards & Mice","Own Brand\r",0.1
+"Prod066","AtliQ HighCap SATA SSD 480GB [Prod066]","Storage & Memory","Distribution\r",0.11
+"Prod067","AtliQ Conference 360 Mic/Speaker [Prod067]","Audio & Webcams","Distribution\r",0.12
+"Prod068","AtliQ USB-C 100W Fast Charging Cord [Prod068]","Power & Cables","Distribution\r",0.13
+"Prod069","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod069]","Networking & Hubs","Distribution\r",0.14
+"Prod070","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod070]","Desktops & Laptops","Distribution\r",0.08
+"Prod071","AtliQ MetalChassis Mid-Tower Case [Prod071]","Components & Cooling","Distribution\r",0.09
+"Prod072","AtliQ TouchPanel 15.6" Portable [Prod072]","Displays & Monitors","Distribution\r",0.1
+"Prod073","AtliQ OfficeCombo Wireless Pack [Prod073]","Keyboards & Mice","Distribution\r",0.11
+"Prod074","AtliQ DDR4 16GB 3200MHz RAM [Prod074]","Storage & Memory","Distribution\r",0.12
+"Prod075","AtliQ BassPro Wireless Earbuds [Prod075]","Audio & Webcams","Distribution\r",0.13
+"Prod076","AtliQ UltraFlex DisplayPort 1.4 [Prod076]","Power & Cables","Distribution\r",0.14
+"Prod077","AtliQ Cat7 Shielded Ethernet 10m [Prod077]","Networking & Hubs","Distribution\r",0.08
+"Prod078","AtliQ MiniPC Office Cube [Prod078]","Desktops & Laptops","Own Brand\r",0.09
+"Prod079","AtliQ SoundProof Anti-Vibration Pads [Prod079]","Components & Cooling","Own Brand\r",0.1
+"Prod080","AtliQ Horizon 24" FHD IPS [Prod080]","Displays & Monitors","Own Brand\r",0.11
+"Prod081","AtliQ ErgoMech RGB Keyboard [Prod081]","Keyboards & Mice","Own Brand\r",0.12
+"Prod082","AtliQ FastTrack NVMe SSD 1TB [Prod082]","Storage & Memory","Own Brand\r",0.13
+"Prod083","AtliQ SoundPulse 7.1 Gaming Headset [Prod083]","Audio & Webcams","Own Brand\r",0.14
+"Prod084","AtliQ PowerForge 650W Bronze PSU [Prod084]","Power & Cables","Own Brand\r",0.08
+"Prod085","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod085]","Networking & Hubs","Own Brand\r",0.09
+"Prod086","AtliQ WorkStation Slim i5 [Prod086]","Desktops & Laptops","Own Brand\r",0.1
+"Prod087","AtliQ FlowAir 120mm RGB Case Fan [Prod087]","Components & Cooling","Own Brand\r",0.11
+"Prod088","AtliQ Horizon 27" QHD Gaming [Prod088]","Displays & Monitors","Own Brand\r",0.12
+"Prod089","AtliQ Stealth Wireless Keyboard [Prod089]","Keyboards & Mice","Own Brand\r",0.13
+"Prod090","AtliQ FastTrack NVMe SSD 2TB [Prod090]","Storage & Memory","Own Brand\r",0.14
+"Prod091","AtliQ ClearVoice Studio Mic [Prod091]","Audio & Webcams","Own Brand\r",0.08
+"Prod092","AtliQ SurgeGuard 8-Way Extension [Prod092]","Power & Cables","Own Brand\r",0.09
+"Prod093","AtliQ 8-Port Gigabit Switch [Prod093]","Networking & Hubs","Own Brand\r",0.1
+"Prod094","AtliQ BeastMaster Gaming Rig i7 [Prod094]","Desktops & Laptops","Own Brand\r",0.11
+"Prod095","AtliQ LiquidCool 240mm AIO Cooler [Prod095]","Components & Cooling","Own Brand\r",0.12
+"Prod096","AtliQ Horizon 32" 4K Curved [Prod096]","Displays & Monitors","Own Brand\r",0.13
+"Prod097","AtliQ HyperTrack Precision Mouse [Prod097]","Keyboards & Mice","Own Brand\r",0.14
+"Prod098","AtliQ TurboDrive External SSD 500GB [Prod098]","Storage & Memory","Own Brand\r",0.08
+"Prod099","AtliQ StreamHD 1080p Webcam [Prod099]","Audio & Webcams","Own Brand\r",0.09
+"Prod100","AtliQ Braided HDMI 2.1 4K Cable [Prod100]","Power & Cables","Own Brand\r",0.1
+"Prod101","AtliQ 10-in-1 USB-C Docking Station [Prod101]","Networking & Hubs","Own Brand\r",0.11
+"Prod102","AtliQ EcoLite Business Notebook 14" [Prod102]","Desktops & Laptops","Own Brand\r",0.12
+"Prod103","AtliQ ThermalMaster Heatsink [Prod103]","Components & Cooling","Own Brand\r",0.13
+"Prod104","AtliQ VisionPro 1080p UltraSlim [Prod104]","Displays & Monitors","Own Brand\r",0.14
+"Prod105","AtliQ AeroGlide Gaming Mouse [Prod105]","Keyboards & Mice","Own Brand\r",0.08
+"Prod106","AtliQ HighCap SATA SSD 480GB [Prod106]","Storage & Memory","Own Brand\r",0.09
+"Prod107","AtliQ Conference 360 Mic/Speaker [Prod107]","Audio & Webcams","Own Brand\r",0.1
+"Prod108","AtliQ USB-C 100W Fast Charging Cord [Prod108]","Power & Cables","Own Brand\r",0.11
+"Prod109","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod109]","Networking & Hubs","Own Brand\r",0.12
+"Prod110","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod110]","Desktops & Laptops","Distribution\r",0.13
+"Prod111","AtliQ MetalChassis Mid-Tower Case [Prod111]","Components & Cooling","Distribution\r",0.14
+"Prod112","AtliQ TouchPanel 15.6" Portable [Prod112]","Displays & Monitors","Distribution\r",0.08
+"Prod113","AtliQ OfficeCombo Wireless Pack [Prod113]","Keyboards & Mice","Distribution\r",0.09
+"Prod114","AtliQ DDR4 16GB 3200MHz RAM [Prod114]","Storage & Memory","Distribution\r",0.1
+"Prod115","AtliQ BassPro Wireless Earbuds [Prod115]","Audio & Webcams","Distribution\r",0.11
+"Prod116","AtliQ UltraFlex DisplayPort 1.4 [Prod116]","Power & Cables","Distribution\r",0.12
+"Prod117","AtliQ Cat7 Shielded Ethernet 10m [Prod117]","Networking & Hubs","Distribution\r",0.13
+"Prod118","AtliQ MiniPC Office Cube [Prod118]","Desktops & Laptops","Distribution\r",0.14
+"Prod119","AtliQ SoundProof Anti-Vibration Pads [Prod119]","Components & Cooling","Distribution\r",0.08
+"Prod120","AtliQ Horizon 24" FHD IPS [Prod120]","Displays & Monitors","Distribution\r",0.09
+"Prod121","AtliQ ErgoMech RGB Keyboard [Prod121]","Keyboards & Mice","Distribution\r",0.1
+"Prod122","AtliQ FastTrack NVMe SSD 1TB [Prod122]","Storage & Memory","Own Brand\r",0.11
+"Prod123","AtliQ SoundPulse 7.1 Gaming Headset [Prod123]","Audio & Webcams","Own Brand\r",0.12
+"Prod124","AtliQ PowerForge 650W Bronze PSU [Prod124]","Power & Cables","Own Brand\r",0.13
+"Prod125","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod125]","Networking & Hubs","Own Brand\r",0.14
+"Prod126","AtliQ WorkStation Slim i5 [Prod126]","Desktops & Laptops","Own Brand\r",0.08
+"Prod127","AtliQ FlowAir 120mm RGB Case Fan [Prod127]","Components & Cooling","Own Brand\r",0.09
+"Prod128","AtliQ Horizon 27" QHD Gaming [Prod128]","Displays & Monitors","Distribution\r",0.1
+"Prod129","AtliQ Stealth Wireless Keyboard [Prod129]","Keyboards & Mice","Distribution\r",0.11
+"Prod130","AtliQ FastTrack NVMe SSD 2TB [Prod130]","Storage & Memory","Distribution\r",0.12
+"Prod131","AtliQ ClearVoice Studio Mic [Prod131]","Audio & Webcams","Distribution\r",0.13
+"Prod132","AtliQ SurgeGuard 8-Way Extension [Prod132]","Power & Cables","Distribution\r",0.14
+"Prod133","AtliQ 8-Port Gigabit Switch [Prod133]","Networking & Hubs","Own Brand\r",0.08
+"Prod134","AtliQ BeastMaster Gaming Rig i7 [Prod134]","Desktops & Laptops","Own Brand\r",0.09
+"Prod135","AtliQ LiquidCool 240mm AIO Cooler [Prod135]","Components & Cooling","Own Brand\r",0.1
+"Prod136","AtliQ Horizon 32" 4K Curved [Prod136]","Displays & Monitors","Own Brand\r",0.11
+"Prod137","AtliQ HyperTrack Precision Mouse [Prod137]","Keyboards & Mice","Own Brand\r",0.12
+"Prod138","AtliQ TurboDrive External SSD 500GB [Prod138]","Storage & Memory","Own Brand\r",0.13
+"Prod139","AtliQ StreamHD 1080p Webcam [Prod139]","Audio & Webcams","Own Brand\r",0.14
+"Prod140","AtliQ Braided HDMI 2.1 4K Cable [Prod140]","Power & Cables","Own Brand\r",0.08
+"Prod141","AtliQ 10-in-1 USB-C Docking Station [Prod141]","Networking & Hubs","Own Brand\r",0.09
+"Prod142","AtliQ EcoLite Business Notebook 14" [Prod142]","Desktops & Laptops","Own Brand\r",0.1
+"Prod143","AtliQ ThermalMaster Heatsink [Prod143]","Components & Cooling","Distribution\r",0.11
+"Prod144","AtliQ VisionPro 1080p UltraSlim [Prod144]","Displays & Monitors","Distribution\r",0.12
+"Prod145","AtliQ AeroGlide Gaming Mouse [Prod145]","Keyboards & Mice","Distribution\r",0.13
+"Prod146","AtliQ HighCap SATA SSD 480GB [Prod146]","Storage & Memory","Distribution\r",0.14
+"Prod147","AtliQ Conference 360 Mic/Speaker [Prod147]","Audio & Webcams","Distribution\r",0.08
+"Prod148","AtliQ USB-C 100W Fast Charging Cord [Prod148]","Power & Cables","Own Brand\r",0.09
+"Prod149","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod149]","Networking & Hubs","Own Brand\r",0.1
+"Prod150","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod150]","Desktops & Laptops","Own Brand\r",0.11
+"Prod151","AtliQ MetalChassis Mid-Tower Case [Prod151]","Components & Cooling","Own Brand\r",0.12
+"Prod152","AtliQ TouchPanel 15.6" Portable [Prod152]","Displays & Monitors","Own Brand\r",0.13
+"Prod153","AtliQ OfficeCombo Wireless Pack [Prod153]","Keyboards & Mice","Own Brand\r",0.14
+"Prod154","AtliQ DDR4 16GB 3200MHz RAM [Prod154]","Storage & Memory","Own Brand\r",0.08
+"Prod155","AtliQ BassPro Wireless Earbuds [Prod155]","Audio & Webcams","Own Brand\r",0.09
+"Prod156","AtliQ UltraFlex DisplayPort 1.4 [Prod156]","Power & Cables","Own Brand\r",0.1
+"Prod157","AtliQ Cat7 Shielded Ethernet 10m [Prod157]","Networking & Hubs","Own Brand\r",0.11
+"Prod158","AtliQ MiniPC Office Cube [Prod158]","Desktops & Laptops","Distribution\r",0.12
+"Prod159","AtliQ SoundProof Anti-Vibration Pads [Prod159]","Components & Cooling","Distribution\r",0.13
+"Prod160","AtliQ Horizon 24" FHD IPS [Prod160]","Displays & Monitors","Distribution\r",0.14
+"Prod161","AtliQ ErgoMech RGB Keyboard [Prod161]","Keyboards & Mice","Distribution\r",0.08
+"Prod162","AtliQ FastTrack NVMe SSD 1TB [Prod162]","Storage & Memory","Distribution\r",0.09
+"Prod163","AtliQ SoundPulse 7.1 Gaming Headset [Prod163]","Audio & Webcams","Own Brand\r",0.1
+"Prod164","AtliQ PowerForge 650W Bronze PSU [Prod164]","Power & Cables","Own Brand\r",0.11
+"Prod165","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod165]","Networking & Hubs","Own Brand\r",0.12
+"Prod166","AtliQ WorkStation Slim i5 [Prod166]","Desktops & Laptops","Own Brand\r",0.13
+"Prod167","AtliQ FlowAir 120mm RGB Case Fan [Prod167]","Components & Cooling","Own Brand\r",0.14
+"Prod168","AtliQ Horizon 27" QHD Gaming [Prod168]","Displays & Monitors","Own Brand\r",0.08
+"Prod169","AtliQ Stealth Wireless Keyboard [Prod169]","Keyboards & Mice","Own Brand\r",0.09
+"Prod170","AtliQ FastTrack NVMe SSD 2TB [Prod170]","Storage & Memory","Own Brand\r",0.1
+"Prod171","AtliQ ClearVoice Studio Mic [Prod171]","Audio & Webcams","Own Brand\r",0.11
+"Prod172","AtliQ SurgeGuard 8-Way Extension [Prod172]","Power & Cables","Own Brand\r",0.12
+"Prod173","AtliQ 8-Port Gigabit Switch [Prod173]","Networking & Hubs","Distribution\r",0.13
+"Prod174","AtliQ BeastMaster Gaming Rig i7 [Prod174]","Desktops & Laptops","Distribution\r",0.14
+"Prod175","AtliQ LiquidCool 240mm AIO Cooler [Prod175]","Components & Cooling","Distribution\r",0.08
+"Prod176","AtliQ Horizon 32" 4K Curved [Prod176]","Displays & Monitors","Distribution\r",0.09
+"Prod177","AtliQ HyperTrack Precision Mouse [Prod177]","Keyboards & Mice","Distribution\r",0.1
+"Prod178","AtliQ TurboDrive External SSD 500GB [Prod178]","Storage & Memory","Own Brand\r",0.11
+"Prod179","AtliQ StreamHD 1080p Webcam [Prod179]","Audio & Webcams","Own Brand\r",0.12
+"Prod180","AtliQ Braided HDMI 2.1 4K Cable [Prod180]","Power & Cables","Own Brand\r",0.13
+"Prod181","AtliQ 10-in-1 USB-C Docking Station [Prod181]","Networking & Hubs","Own Brand\r",0.14
+"Prod182","AtliQ EcoLite Business Notebook 14" [Prod182]","Desktops & Laptops","Own Brand\r",0.08
+"Prod183","AtliQ ThermalMaster Heatsink [Prod183]","Components & Cooling","Own Brand\r",0.09
+"Prod184","AtliQ VisionPro 1080p UltraSlim [Prod184]","Displays & Monitors","Own Brand\r",0.1
+"Prod185","AtliQ AeroGlide Gaming Mouse [Prod185]","Keyboards & Mice","Own Brand\r",0.11
+"Prod186","AtliQ HighCap SATA SSD 480GB [Prod186]","Storage & Memory","Own Brand\r",0.12
+"Prod187","AtliQ Conference 360 Mic/Speaker [Prod187]","Audio & Webcams","Own Brand\r",0.13
+"Prod188","AtliQ USB-C 100W Fast Charging Cord [Prod188]","Power & Cables","Distribution\r",0.14
+"Prod189","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod189]","Networking & Hubs","Distribution\r",0.08
+"Prod190","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod190]","Desktops & Laptops","Distribution\r",0.09
+"Prod191","AtliQ MetalChassis Mid-Tower Case [Prod191]","Components & Cooling","Distribution\r",0.1
+"Prod192","AtliQ TouchPanel 15.6" Portable [Prod192]","Displays & Monitors","Distribution\r",0.11
+"Prod193","AtliQ OfficeCombo Wireless Pack [Prod193]","Keyboards & Mice","Own Brand\r",0.12
+"Prod194","AtliQ DDR4 16GB 3200MHz RAM [Prod194]","Storage & Memory","Own Brand\r",0.13
+"Prod195","AtliQ BassPro Wireless Earbuds [Prod195]","Audio & Webcams","Own Brand\r",0.14
+"Prod196","AtliQ UltraFlex DisplayPort 1.4 [Prod196]","Power & Cables","Own Brand\r",0.08
+"Prod197","AtliQ Cat7 Shielded Ethernet 10m [Prod197]","Networking & Hubs","Own Brand\r",0.09
+"Prod198","AtliQ MiniPC Office Cube [Prod198]","Desktops & Laptops","Own Brand\r",0.1
+"Prod199","AtliQ SoundProof Anti-Vibration Pads [Prod199]","Components & Cooling","Own Brand\r",0.11
+"Prod200","AtliQ Horizon 24" FHD IPS [Prod200]","Displays & Monitors","Own Brand\r",0.12
+"Prod201","AtliQ ErgoMech RGB Keyboard [Prod201]","Keyboards & Mice","Own Brand\r",0.13
+"Prod202","AtliQ FastTrack NVMe SSD 1TB [Prod202]","Storage & Memory","Own Brand\r",0.14
+"Prod203","AtliQ SoundPulse 7.1 Gaming Headset [Prod203]","Audio & Webcams","Distribution\r",0.08
+"Prod204","AtliQ PowerForge 650W Bronze PSU [Prod204]","Power & Cables","Distribution\r",0.09
+"Prod205","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod205]","Networking & Hubs","Distribution\r",0.1
+"Prod206","AtliQ WorkStation Slim i5 [Prod206]","Desktops & Laptops","Distribution\r",0.11
+"Prod207","AtliQ FlowAir 120mm RGB Case Fan [Prod207]","Components & Cooling","Distribution\r",0.12
+"Prod208","AtliQ Horizon 27" QHD Gaming [Prod208]","Displays & Monitors","Own Brand\r",0.13
+"Prod209","AtliQ Stealth Wireless Keyboard [Prod209]","Keyboards & Mice","Own Brand\r",0.14
+"Prod210","AtliQ FastTrack NVMe SSD 2TB [Prod210]","Storage & Memory","Own Brand\r",0.08
+"Prod211","AtliQ ClearVoice Studio Mic [Prod211]","Audio & Webcams","Own Brand\r",0.09
+"Prod212","AtliQ SurgeGuard 8-Way Extension [Prod212]","Power & Cables","Own Brand\r",0.1
+"Prod213","AtliQ 8-Port Gigabit Switch [Prod213]","Networking & Hubs","Own Brand\r",0.11
+"Prod214","AtliQ BeastMaster Gaming Rig i7 [Prod214]","Desktops & Laptops","Own Brand\r",0.12
+"Prod215","AtliQ LiquidCool 240mm AIO Cooler [Prod215]","Components & Cooling","Own Brand\r",0.13
+"Prod216","AtliQ Horizon 32" 4K Curved [Prod216]","Displays & Monitors","Own Brand\r",0.14
+"Prod217","AtliQ HyperTrack Precision Mouse [Prod217]","Keyboards & Mice","Own Brand\r",0.08
+"Prod218","AtliQ TurboDrive External SSD 500GB [Prod218]","Storage & Memory","Distribution\r",0.09
+"Prod219","AtliQ StreamHD 1080p Webcam [Prod219]","Audio & Webcams","Distribution\r",0.1
+"Prod220","AtliQ Braided HDMI 2.1 4K Cable [Prod220]","Power & Cables","Distribution\r",0.11
+"Prod221","AtliQ 10-in-1 USB-C Docking Station [Prod221]","Networking & Hubs","Distribution\r",0.12
+"Prod222","AtliQ EcoLite Business Notebook 14" [Prod222]","Desktops & Laptops","Distribution\r",0.13
+"Prod223","AtliQ ThermalMaster Heatsink [Prod223]","Components & Cooling","Own Brand\r",0.14
+"Prod224","AtliQ VisionPro 1080p UltraSlim [Prod224]","Displays & Monitors","Own Brand\r",0.08
+"Prod225","AtliQ AeroGlide Gaming Mouse [Prod225]","Keyboards & Mice","Own Brand\r",0.09
+"Prod226","AtliQ HighCap SATA SSD 480GB [Prod226]","Storage & Memory","Own Brand\r",0.1
+"Prod227","AtliQ Conference 360 Mic/Speaker [Prod227]","Audio & Webcams","Own Brand\r",0.11
+"Prod228","AtliQ USB-C 100W Fast Charging Cord [Prod228]","Power & Cables","Own Brand\r",0.12
+"Prod229","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod229]","Networking & Hubs","Own Brand\r",0.13
+"Prod230","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod230]","Desktops & Laptops","Own Brand\r",0.14
+"Prod231","AtliQ MetalChassis Mid-Tower Case [Prod231]","Components & Cooling","Own Brand\r",0.08
+"Prod232","AtliQ TouchPanel 15.6" Portable [Prod232]","Displays & Monitors","Own Brand\r",0.09
+"Prod233","AtliQ OfficeCombo Wireless Pack [Prod233]","Keyboards & Mice","Distribution\r",0.1
+"Prod234","AtliQ DDR4 16GB 3200MHz RAM [Prod234]","Storage & Memory","Distribution\r",0.11
+"Prod235","AtliQ BassPro Wireless Earbuds [Prod235]","Audio & Webcams","Distribution\r",0.12
+"Prod236","AtliQ UltraFlex DisplayPort 1.4 [Prod236]","Power & Cables","Distribution\r",0.13
+"Prod237","AtliQ Cat7 Shielded Ethernet 10m [Prod237]","Networking & Hubs","Distribution\r",0.14
+"Prod238","AtliQ MiniPC Office Cube [Prod238]","Desktops & Laptops","Own Brand\r",0.08
+"Prod239","AtliQ SoundProof Anti-Vibration Pads [Prod239]","Components & Cooling","Own Brand\r",0.09
+"Prod240","AtliQ Horizon 24" FHD IPS [Prod240]","Displays & Monitors","Own Brand\r",0.1
+"Prod241","AtliQ ErgoMech RGB Keyboard [Prod241]","Keyboards & Mice","Own Brand\r",0.11
+"Prod242","AtliQ FastTrack NVMe SSD 1TB [Prod242]","Storage & Memory","Own Brand\r",0.12
+"Prod243","AtliQ SoundPulse 7.1 Gaming Headset [Prod243]","Audio & Webcams","Own Brand\r",0.13
+"Prod244","AtliQ PowerForge 650W Bronze PSU [Prod244]","Power & Cables","Own Brand\r",0.14
+"Prod245","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod245]","Networking & Hubs","Own Brand\r",0.08
+"Prod246","AtliQ WorkStation Slim i5 [Prod246]","Desktops & Laptops","Own Brand\r",0.09
+"Prod247","AtliQ FlowAir 120mm RGB Case Fan [Prod247]","Components & Cooling","Own Brand\r",0.1
+"Prod248","AtliQ Horizon 27" QHD Gaming [Prod248]","Displays & Monitors","Distribution\r",0.11
+"Prod249","AtliQ Stealth Wireless Keyboard [Prod249]","Keyboards & Mice","Distribution\r",0.12
+"Prod250","AtliQ FastTrack NVMe SSD 2TB [Prod250]","Storage & Memory","Distribution\r",0.13
+"Prod251","AtliQ ClearVoice Studio Mic [Prod251]","Audio & Webcams","Distribution\r",0.14
+"Prod252","AtliQ SurgeGuard 8-Way Extension [Prod252]","Power & Cables","Distribution\r",0.08
+"Prod253","AtliQ 8-Port Gigabit Switch [Prod253]","Networking & Hubs","Own Brand\r",0.09
+"Prod254","AtliQ BeastMaster Gaming Rig i7 [Prod254]","Desktops & Laptops","Own Brand\r",0.1
+"Prod255","AtliQ LiquidCool 240mm AIO Cooler [Prod255]","Components & Cooling","Own Brand\r",0.11
+"Prod256","AtliQ Horizon 32" 4K Curved [Prod256]","Displays & Monitors","Own Brand\r",0.12
+"Prod257","AtliQ HyperTrack Precision Mouse [Prod257]","Keyboards & Mice","Own Brand\r",0.13
+"Prod258","AtliQ TurboDrive External SSD 500GB [Prod258]","Storage & Memory","Own Brand\r",0.14
+"Prod259","AtliQ StreamHD 1080p Webcam [Prod259]","Audio & Webcams","Own Brand\r",0.08
+"Prod260","AtliQ Braided HDMI 2.1 4K Cable [Prod260]","Power & Cables","Own Brand\r",0.09
+"Prod261","AtliQ 10-in-1 USB-C Docking Station [Prod261]","Networking & Hubs","Own Brand\r",0.1
+"Prod262","AtliQ EcoLite Business Notebook 14" [Prod262]","Desktops & Laptops","Own Brand\r",0.11
+"Prod263","AtliQ ThermalMaster Heatsink [Prod263]","Components & Cooling","Distribution\r",0.12
+"Prod264","AtliQ VisionPro 1080p UltraSlim [Prod264]","Displays & Monitors","Distribution\r",0.13
+"Prod265","AtliQ AeroGlide Gaming Mouse [Prod265]","Keyboards & Mice","Distribution\r",0.14
+"Prod266","AtliQ HighCap SATA SSD 480GB [Prod266]","Storage & Memory","Distribution\r",0.08
+"Prod267","AtliQ Conference 360 Mic/Speaker [Prod267]","Audio & Webcams","Distribution\r",0.09
+"Prod268","AtliQ USB-C 100W Fast Charging Cord [Prod268]","Power & Cables","Own Brand\r",0.1
+"Prod269","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod269]","Networking & Hubs","Own Brand\r",0.11
+"Prod270","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod270]","Desktops & Laptops","Own Brand\r",0.12
+"Prod271","AtliQ MetalChassis Mid-Tower Case [Prod271]","Components & Cooling","Own Brand\r",0.13
+"Prod272","AtliQ TouchPanel 15.6" Portable [Prod272]","Displays & Monitors","Own Brand\r",0.14
+"Prod273","AtliQ OfficeCombo Wireless Pack [Prod273]","Keyboards & Mice","Own Brand\r",0.08
+"Prod274","AtliQ DDR4 16GB 3200MHz RAM [Prod274]","Storage & Memory","Own Brand\r",0.09
+"Prod275","AtliQ BassPro Wireless Earbuds [Prod275]","Audio & Webcams","Own Brand\r",0.1
+"Prod276","AtliQ UltraFlex DisplayPort 1.4 [Prod276]","Power & Cables","Own Brand\r",0.11
+"Prod277","AtliQ Cat7 Shielded Ethernet 10m [Prod277]","Networking & Hubs","Own Brand\r",0.12
+"Prod278","AtliQ MiniPC Office Cube [Prod278]","Desktops & Laptops","Distribution\r",0.13
+"Prod279","AtliQ SoundProof Anti-Vibration Pads [Prod279]","Components & Cooling","Distribution\r",0.14
+"Prod280","AtliQ Horizon 24" FHD IPS [Prod280]","Displays & Monitors","Distribution",0.08
+"Prod281","AtliQ ErgoMech RGB Keyboard [Prod281]","Keyboards & Mice","Distribution",0.09
+"Prod282","AtliQ FastTrack NVMe SSD 1TB [Prod282]","Storage & Memory","Distribution",0.1
+"Prod283","AtliQ SoundPulse 7.1 Gaming Headset [Prod283]","Audio & Webcams","Distribution",0.11
+"Prod284","AtliQ PowerForge 650W Bronze PSU [Prod284]","Power & Cables","Distribution",0.12
+"Prod285","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod285]","Networking & Hubs","Distribution",0.13
+"Prod286","AtliQ WorkStation Slim i5 [Prod286]","Desktops & Laptops","Distribution",0.14
+"Prod287","AtliQ FlowAir 120mm RGB Case Fan [Prod287]","Components & Cooling","Distribution",0.08
+"Prod288","AtliQ Horizon 27" QHD Gaming [Prod288]","Displays & Monitors","Distribution",0.09
+"Prod289","AtliQ Stealth Wireless Keyboard [Prod289]","Keyboards & Mice","Distribution",0.1
+"Prod290","AtliQ FastTrack NVMe SSD 2TB [Prod290]","Storage & Memory","Distribution",0.11
+"Prod291","AtliQ ClearVoice Studio Mic [Prod291]","Audio & Webcams","Distribution",0.12
+"Prod292","AtliQ SurgeGuard 8-Way Extension [Prod292]","Power & Cables","Distribution",0.13
+"Prod293","AtliQ 8-Port Gigabit Switch [Prod293]","Networking & Hubs","Distribution",0.14
+"Prod294","AtliQ BeastMaster Gaming Rig i7 [Prod294]","Desktops & Laptops","Distribution",0.08
+"Prod295","AtliQ LiquidCool 240mm AIO Cooler [Prod295]","Components & Cooling","Distribution",0.09
+"Prod296","AtliQ Horizon 32" 4K Curved [Prod296]","Displays & Monitors","Distribution",0.1
+"Prod297","AtliQ HyperTrack Precision Mouse [Prod297]","Keyboards & Mice","Distribution",0.11
+"Prod298","AtliQ TurboDrive External SSD 500GB [Prod298]","Storage & Memory","Distribution",0.12
+"Prod299","AtliQ StreamHD 1080p Webcam [Prod299]","Audio & Webcams","Distribution",0.13
+"Prod300","AtliQ Braided HDMI 2.1 4K Cable [Prod300]","Power & Cables","Distribution",0.14
+"Prod301","AtliQ 10-in-1 USB-C Docking Station [Prod301]","Networking & Hubs","Distribution",0.08
+"Prod302","AtliQ EcoLite Business Notebook 14" [Prod302]","Desktops & Laptops","Distribution",0.09
+"Prod303","AtliQ ThermalMaster Heatsink [Prod303]","Components & Cooling","Distribution",0.1
+"Prod304","AtliQ VisionPro 1080p UltraSlim [Prod304]","Displays & Monitors","Distribution",0.11
+"Prod305","AtliQ AeroGlide Gaming Mouse [Prod305]","Keyboards & Mice","Distribution",0.12
+"Prod306","AtliQ HighCap SATA SSD 480GB [Prod306]","Storage & Memory","Distribution",0.13
+"Prod307","AtliQ Conference 360 Mic/Speaker [Prod307]","Audio & Webcams","Distribution",0.14
+"Prod308","AtliQ USB-C 100W Fast Charging Cord [Prod308]","Power & Cables","Distribution",0.08
+"Prod309","AtliQ High-Gain Wi-Fi 6 USB Adapter [Prod309]","Networking & Hubs","Distribution",0.09
+"Prod310","AtliQ PowerBook Pro 15.6" Ryzen 7 [Prod310]","Desktops & Laptops","Distribution",0.1
+"Prod311","AtliQ MetalChassis Mid-Tower Case [Prod311]","Components & Cooling","Distribution",0.11
+"Prod312","AtliQ TouchPanel 15.6" Portable [Prod312]","Displays & Monitors","Distribution",0.12
+"Prod313","AtliQ OfficeCombo Wireless Pack [Prod313]","Keyboards & Mice","Distribution",0.13
+"Prod314","AtliQ DDR4 16GB 3200MHz RAM [Prod314]","Storage & Memory","Distribution",0.14
+"Prod315","AtliQ BassPro Wireless Earbuds [Prod315]","Audio & Webcams","Distribution",0.08
+"Prod316","AtliQ UltraFlex DisplayPort 1.4 [Prod316]","Power & Cables","Distribution",0.09
+"Prod317","AtliQ Cat7 Shielded Ethernet 10m [Prod317]","Networking & Hubs","Distribution",0.1
+"Prod318","AtliQ MiniPC Office Cube [Prod318]","Desktops & Laptops","Distribution",0.11
+"Prod319","AtliQ SoundProof Anti-Vibration Pads [Prod319]","Components & Cooling","Distribution",0.12
+"Prod320","AtliQ Horizon 24" FHD IPS [Prod320]","Displays & Monitors","Distribution",0.13
+"Prod321","AtliQ ErgoMech RGB Keyboard [Prod321]","Keyboards & Mice","Distribution",0.14
+"Prod322","AtliQ FastTrack NVMe SSD 1TB [Prod322]","Storage & Memory","Distribution",0.08
+"Prod323","AtliQ SoundPulse 7.1 Gaming Headset [Prod323]","Audio & Webcams","Distribution",0.09
+"Prod324","AtliQ PowerForge 650W Bronze PSU [Prod324]","Power & Cables","Distribution",0.1
+"Prod325","AtliQ Gigabit Dual-Band Wi-Fi Router [Prod325]","Networking & Hubs","Distribution",0.11
+"Prod326","AtliQ WorkStation Slim i5 [Prod326]","Desktops & Laptops","Distribution",0.12
+"Prod327","AtliQ FlowAir 120mm RGB Case Fan [Prod327]","Components & Cooling","Distribution",0.13
+"Prod328","AtliQ Horizon 27" QHD Gaming [Prod328]","Displays & Monitors","Distribution",0.14
+"Prod329","AtliQ Stealth Wireless Keyboard [Prod329]","Keyboards & Mice","Distribution",0.08
+"Prod330","AtliQ FastTrack NVMe SSD 2TB [Prod330]","Storage & Memory","Distribution",0.09
+"Prod331","AtliQ ClearVoice Studio Mic [Prod331]","Audio & Webcams","Distribution",0.1
+"Prod332","AtliQ SurgeGuard 8-Way Extension [Prod332]","Power & Cables","Distribution",0.11
+"Prod333","AtliQ 8-Port Gigabit Switch [Prod333]","Networking & Hubs","Distribution",0.12
+"Prod334","AtliQ BeastMaster Gaming Rig i7 [Prod334]","Desktops & Laptops","Distribution",0.13
+"Prod335","AtliQ LiquidCool 240mm AIO Cooler [Prod335]","Components & Cooling","Distribution",0.14
+"Prod336","AtliQ Horizon 32" 4K Curved [Prod336]","Displays & Monitors","Distribution",0.08
+"Prod337","AtliQ HyperTrack Precision Mouse [Prod337]","Keyboards & Mice","Distribution",0.09
+"Prod338","AtliQ TurboDrive External SSD 500GB [Prod338]","Storage & Memory","Distribution",0.1
+"Prod339","AtliQ StreamHD 1080p Webcam [Prod339]","Audio & Webcams","Distribution",0.11
